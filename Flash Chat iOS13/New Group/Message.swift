@@ -1,10 +1,3 @@
-//
-//  Message.swift
-//  Flash Chat iOS13
-//
-//  Created by Alok Acharya on 2/22/20.
-//  Copyright © 2020 Angela Yu. All rights reserved.
-//
 
 import Foundation
 
